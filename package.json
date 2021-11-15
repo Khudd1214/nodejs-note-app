@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "NodeJS Note taking application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khudd1214/nodejs-note-app.git"
+  },
+  "author": "Kenneth Huddleston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khudd1214/nodejs-note-app/issues"
+  },
+  "homepage": "https://github.com/Khudd1214/nodejs-note-app#readme",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "validator": "^13.7.0"
+  }
+}
